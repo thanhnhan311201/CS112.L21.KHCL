@@ -1,5 +1,5 @@
 # CS112.L21.KHCL
-
+![](/Screenshots/img.jpg)
 ## Phân Tích & Thiết Kế Thuật Toán Repository
 
 Nhóm: 10
