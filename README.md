@@ -1,6 +1,6 @@
 # CS112.L21.KHCL
 ![](/Screenshots/algo.jpg)
-## Phân Tích & Thiết Kế Thuật Toán Repository
+## Design And Analysis Of Algorithm Repository
 
 Nhóm: 10
 
