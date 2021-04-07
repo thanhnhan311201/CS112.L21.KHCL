@@ -5,5 +5,5 @@
   - Đánh giá độ phức tạp thuật toán
   - Programming: cài đặt chương trình bằng NNLT Python, nộp tại [Wecode](https://khmt.uit.edu.vn/wecode/cs112.2021/assignment/3/4) 
 
->1. [__*H_index*__](https://github.com/thanhnhan311201/CS112.L21.KHCL/blob/main/Wecode/Assignment%202/H_Index.ipynb)
+>1. [__*H_index*__](https://github.com/thanhnhan311201/CS112.L21.KHCL/blob/main/Wecode/Assignment%202/H-Index.ipynb)
 >2. [__*Khóa Số*__](https://github.com/thanhnhan311201/CS112.L21.KHCL/blob/main/Wecode/Assignment%202/KhoaSo.ipynb)
