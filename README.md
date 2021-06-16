@@ -22,5 +22,5 @@ Số thành viên: 3
 - **Tên**: Tạ Huỳnh Đức Huy
 - **MSSV**: 19521634
 - **Khoa:** Khoa học Máy tính
-- **Github**: 
+- **Github**: https://github.com/duchuy3007
 
