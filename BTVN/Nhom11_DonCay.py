@@ -42,7 +42,6 @@ def solve(n, a, L, R, dp, trace):
 		else:
 			print(trace[i], end=' ')
 		i = abs(trace[i]) - 1
-	print()
 
 def main():
 	n = int(input())
@@ -52,7 +51,6 @@ def main():
 	trace = [0] * (n+1)
 	a = [0] + [int(x) for x in input().split()]
 	initialize(n, a, L, R)
-	# print(L, R)
 	solve(n, a, L, R, dp, trace)
 		
 if __name__ == '__main__':
