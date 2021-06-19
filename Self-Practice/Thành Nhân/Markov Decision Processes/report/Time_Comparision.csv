@@ -1,0 +1,7 @@
+,Game,Algorithm,Time
+0,FrozenLake-v0,Value Iteration,0.06053519248962402
+0,FrozenLake-v0,Policy Iteration,0.012369871139526367
+0,FrozenLake8x8-v0,Value Iteration,0.30692100524902344
+0,FrozenLake8x8-v0,Policy Iteration,0.03680825233459473
+0,Taxi-v3,Value Iteration,1.4871578216552734
+0,Taxi-v3,Policy Iteration,0.18009042739868164
